@@ -33,3 +33,12 @@ Docker: Containerization platform used to deploy the Netdata agent easily.
 ![Screenshot 2025-04-17 143016](https://github.com/user-attachments/assets/7fe7dc28-54a8-484b-9b36-462f2b659240)
 
 ![Screenshot 2025-04-17 143555](https://github.com/user-attachments/assets/c85bc1da-be49-4340-a154-53b09b9f9fde)
+
+# Monitoring System Resources
+
+* Once the Netdata dashboard is accessible, you can monitor various system metrics:
+* CPU Usage: Visualizes the real-time CPU usage of each core.
+* Memory Usage: Displays RAM usage, swap space, and memory availability.
+* Disk Usage: Tracks disk read/write activity and disk space usage.
+* Network Traffic: Monitors incoming and outgoing network traffic.
+* Docker Containers: If Docker is running, Netdata will show metrics for running containers.
